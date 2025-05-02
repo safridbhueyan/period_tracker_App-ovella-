@@ -1,0 +1,4 @@
+#Thu Apr 03 08:46:31 BDT 2025
+base.0=/Users/safridbhueyan/Desktop/ovella_period_tracker_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
